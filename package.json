@@ -1,7 +1,7 @@
 {
   "name": "redux_study",
   "version": "1.0.0",
-  "description": "Starter kit for React and Redux",
+  "description": "React and Redux For Study",
   "scripts": {
     "prestart": "babel-node tools/startMessages.js",
     "start": "npm-run-all --parallel open:src lint:watch test:watch",
